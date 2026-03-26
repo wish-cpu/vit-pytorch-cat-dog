@@ -1,3 +1,24 @@
+# Visual Transformer (ViT) for Cat vs Dog Classification
+# Visual Transformer（ViT）猫狗分类项目
+
+## 📋 项目简介 | Project Description
+This project is a reproduction of the Visual Transformer (ViT) model for binary image classification (Cats vs Dogs).
+It is based on the open-source ViT-PyTorch implementation for learning and experimental purposes.
+
+本项目是针对 **Visual Transformer (ViT)** 模型的**复现项目**，用于猫狗二分类任务。
+代码基于开源的 ViT-PyTorch 仓库改写，仅用于学习和实验研究。
+
+## 🔧 环境依赖 | Dependencies
+- Python 3.10+
+- PyTorch 2.0+
+- torchvision
+- PIL
+- matplotlib
+- vit-pytorch (官方开源实现)
+
+安装依赖：
+```bash
+pip install torch torchvision vit-pytorch matplotlib pillow
 <img src="./images/vit.gif" width="500px"></img>
 
 ## Table of Contents
